@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
 import me from '../image/saya.jpg';
-import Education from './Education';
-import Experience from './Experience';
 import Skil from './Skil';
 
 export class Resume extends Component {

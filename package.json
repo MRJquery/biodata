@@ -10,7 +10,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.0.0"
   },
-  "hompage": "",
+  "hompage": "https://github.com/MRJquery/biodata.git",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
